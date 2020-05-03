@@ -41,8 +41,25 @@ docker container provided at . For details about how to launch the simulation,
 please see [this video](https://asciinema.org/a/326357).
 
 This work is based on the multi-environment approach proposed by Rabault and
-Kuhnle, and the reader can also refer to the open source code
-https://github.com/jerabaul29/Cylinder2DFlowControlDRLParallel.
+Kuhnle, and the reader can also refer to the [open source
+code](https://github.com/jerabaul29/Cylinder2DFlowControlDRLParallel).
+
+If you use this work for your research, please consider cite our work:
+```
+@ARTICLE{2020arXiv200412417T,
+       author = {{Tang}, Hongwei and {Rabault}, Jean and {Kuhnle}, Alexander and
+         {Wang}, Yan and {Wang}, Tongguang},
+        title = "{Robust active flow control over a range of Reynolds numbers using an artificial neural network trained through deep reinforcement learning}",
+      journal = {arXiv e-prints},
+     keywords = {Physics - Fluid Dynamics},
+         year = 2020,
+        month = apr,
+          eid = {arXiv:2004.12417},
+        pages = {arXiv:2004.12417},
+archivePrefix = {arXiv},
+       eprint = {2004.12417}
+}
+```
 
 # Help
 
@@ -59,5 +76,6 @@ If you encounter problems, please:
 - You can use **script_launch_parallel.sh** to launch the simulation or run
   **launch_servers.py** and **launch_parallel_training.py** respectively.
 - For evaluating the obtained model/policy, run **single_runner.py**.
-- You can refer to this [tutorial](https://fenics-containers.readthedocs.io/en/latest/introduction.html#running-fenics-in-docker)
+- You can refer to this
+  [tutorial](https://fenics-containers.readthedocs.io/en/latest/introduction.html#running-fenics-in-docker)
   for the details about running fenics in docker.
