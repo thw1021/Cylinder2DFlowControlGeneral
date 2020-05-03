@@ -51,7 +51,7 @@ If you encounter problems, please:
   training](https://github.com/jerabaul29/Cylinder2DFlowControlDRL) and
   [parallel
   taining](https://github.com/jerabaul29/Cylinder2DFlowControlDRLParallel).
-- feel free to an issue and ask for help.
+- feel free to open an issue and ask for help.
 
 # Notes
 - You can use **script_launch_parallel.sh** to launch the simulation or run
