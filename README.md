@@ -36,7 +36,7 @@ to obtain a model that is capable to take effective control over a range of
 Reynolds numbers. The model we obatined for the results presented in our paper
 is located in **BestModel**. The recommended method of execution is with the
 docker container provided at . For details about how to launch the simulation,
-please see this video.
+please see [this video](https://asciinema.org/a/326357).
 
 This work is based on the multi-environment approach proposed by Rabault and
 Kuhnle, and the reader can also refer to the open source code
