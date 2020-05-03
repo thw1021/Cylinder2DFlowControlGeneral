@@ -27,7 +27,7 @@ drag by approximately 5.7%, 21.6%, 32.7%, and 38.7%, at *Re*=100, 200, 300, and
 previously unseen value of the Reynolds number between 60 and 400, as indicated
 by the following results:
 
-<center>!<img src="./figure/RobustControl.jpg" width="600px" height="500px"/></center>
+<center><img src="./figure/RobustControl.jpg" width="600px" height="500px"/></center>
 
 # Getting started
 
