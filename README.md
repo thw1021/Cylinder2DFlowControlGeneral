@@ -46,7 +46,7 @@ This work is based on the multi-environment approach proposed by Rabault and
 Kuhnle, and the reader can also refer to the [open source
 code](https://github.com/jerabaul29/Cylinder2DFlowControlDRLParallel).
 
-If you use this work for your research, please consider cite our work:
+If you use this work for your research, please consider citing our work:
 ```
 @ARTICLE{2020arXiv200412417T,
        author = {{Tang}, Hongwei and {Rabault}, Jean and {Kuhnle}, Alexander and
