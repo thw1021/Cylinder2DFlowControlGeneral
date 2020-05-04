@@ -37,8 +37,8 @@ The main code is located in **RobustDRLCylinder2DControl**. You can use the code
 to obtain a model that is capable to take effective control over a range of
 Reynolds numbers. The model we obatined for the results presented in our paper
 is located in **BestModel**. The recommended method of execution is with the
-docker container provided at . For details about how to launch the simulation,
-please see this video:
+docker container provided [here](https://pan.nuaa.edu.cn/share/c5624a5e4077275d5da71d05d8?lang=en). 
+For details about how to launch the simulation, please see this video:
 
 <a href="https://asciinema.org/a/326357" target="_blank"><img src="https://asciinema.org/a/326357.svg" /></a>
 
