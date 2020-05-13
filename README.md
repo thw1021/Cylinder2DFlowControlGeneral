@@ -3,7 +3,9 @@
 This repository contains the code corresponding to our manuscript, "Robust
 active flow control over a range of Reynolds numbers using an artificial neural
 network trained through deep reinforcement learning", Tang *et al.*, Physics of
-Fluids (2020), preprint is available at https://arxiv.org/abs/2004.12417
+Fluids 32(5), 053605 (2020). This paper is availbale at
+https://aip.scitation.org/doi/10.1063/5.0006492, the preprint is also available
+at https://arxiv.org/abs/2004.12417
 
 This work focuses on the active flow control of a computational fluid dynamics
 simulation over a range of Reynolds numbers using deep reinforcement learning
@@ -48,18 +50,17 @@ code](https://github.com/jerabaul29/Cylinder2DFlowControlDRLParallel).
 
 If you use this work for your research, please consider citing our work:
 ```
-@ARTICLE{2020arXiv200412417T,
-       author = {{Tang}, Hongwei and {Rabault}, Jean and {Kuhnle}, Alexander and
-         {Wang}, Yan and {Wang}, Tongguang},
-        title = "{Robust active flow control over a range of Reynolds numbers using an artificial neural network trained through deep reinforcement learning}",
-      journal = {arXiv e-prints},
-     keywords = {Physics - Fluid Dynamics},
-         year = 2020,
-        month = apr,
-          eid = {arXiv:2004.12417},
-        pages = {arXiv:2004.12417},
-archivePrefix = {arXiv},
-       eprint = {2004.12417}
+@article{doi:10.1063/5.0006492,
+author = {Tang,Hongwei  and Rabault,Jean  and Kuhnle,Alexander  and Wang,Yan  and Wang,Tongguang },
+title = {Robust active flow control over a range of Reynolds numbers using an artificial neural network trained through deep reinforcement learning},
+journal = {Physics of Fluids},
+volume = {32},
+number = {5},
+pages = {053605},
+year = {2020},
+doi = {10.1063/5.0006492},
+URL = {https://doi.org/10.1063/5.0006492},
+eprint = {https://doi.org/10.1063/5.0006492}
 }
 ```
 
