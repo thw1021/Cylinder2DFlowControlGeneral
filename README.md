@@ -90,6 +90,6 @@ If you encounter problems, please:
 # Typo
 - There is a `i` missing in Eq. (20) in our paper. And the `n` in the words following Eq. (20) should be `i`.
   
-  i.e., Eq. (20) shuld be `c_i=a_{j−1}+ i *(a_j−a_{j−1}) / Ne` where `i`=1, 2, ..., Ne. (See https://github.com/thw1021/Cylinder2DFlowControlGeneral/issues/3. Thank @jviquerat for pointing this out.)
+  i.e., Eq. (20) shuld be `c_i=a_{j−1}+ i *(a_j−a_{j−1}) / Ne` where `i=1, 2, ..., Ne`. (See [issues3](https://github.com/thw1021/Cylinder2DFlowControlGeneral/issues/3). Thank @jviquerat for pointing this out.)
 # Contact and Support
 thw1021@nuaa.edu.cn (Hongwei Tang)
